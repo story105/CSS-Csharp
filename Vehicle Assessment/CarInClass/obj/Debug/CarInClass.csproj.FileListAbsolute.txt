@@ -1,0 +1,6 @@
+C:\Users\Charlie Story\Documents\Visual Studio 2017\Projects\CarInClass\CarInClass\obj\Debug\CarInClass.csprojResolveAssemblyReference.cache
+C:\Users\Charlie Story\Documents\Visual Studio 2017\Projects\CarInClass\CarInClass\bin\Debug\CarInClass.exe.config
+C:\Users\Charlie Story\Documents\Visual Studio 2017\Projects\CarInClass\CarInClass\bin\Debug\CarInClass.exe
+C:\Users\Charlie Story\Documents\Visual Studio 2017\Projects\CarInClass\CarInClass\bin\Debug\CarInClass.pdb
+C:\Users\Charlie Story\Documents\Visual Studio 2017\Projects\CarInClass\CarInClass\obj\Debug\CarInClass.exe
+C:\Users\Charlie Story\Documents\Visual Studio 2017\Projects\CarInClass\CarInClass\obj\Debug\CarInClass.pdb
