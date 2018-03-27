@@ -1,0 +1,3 @@
+TakeaFunTest was a simple looking WPF console application that is quite specific to my freshman year life. 
+Setting up a fun test was simple yet repetitive.
+If you wish to run it, just unzip the first zip file, I had a habit of Zipping the project folder in the project...
